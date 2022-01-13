@@ -9,12 +9,6 @@
 
 int main (int argc, char* argv[])
 {
-	//printf  ("Enter number: ");
-	//scanf_s ("*");
-	//printf  ("Encoded number is: lqZ");
-	//
-	//return 0;
-
 	if (argc < 3)
 	{
 		printf ("Usage: Phasmophobia-Save-Encoder [source filename] [result filename]\n");
